@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801797213760",
+    "project_id": "tictokgame-f7e01",
+    "storage_bucket": "tictokgame-f7e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801797213760:android:0f08eae47ac11c629019a5",
+        "android_client_info": {
+          "package_name": "com.example.tictokgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801797213760-ggcfqjtbt944to8a9oti71nlqnurqq8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7k_dIMaeyCgJN-QXiHgQTmsa_4ECnrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801797213760-ggcfqjtbt944to8a9oti71nlqnurqq8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
